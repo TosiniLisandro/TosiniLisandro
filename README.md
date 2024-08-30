@@ -1,9 +1,19 @@
-## Hi there 👋
-
-<!--
-**TosiniLisandro/TosiniLisandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi everyone, i'm Kevin Allioli aka (@linitio)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="45%">
+Hi, nice to meet you. Let me introduce my profile in a few lines.
+  <ul>
+    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
+    <li>📍 Based near <b>Geneva</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
+  </ul>
+Passionate IT engineer and trainer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -13,6 +13,10 @@ Soy un programador apasionado con conocimientos en diversas tecnologías web. Es
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
+## 📊 Experiencia:
+
+![Gráfico de Experiencia](https://quickchart.io/chart?c=%7Btype%3A%22bar%22%2Cdata%3A%7Blabels%3A%5B%22PHP%22%2C%22C%23%22%2C%22SQL%22%5D%2Cdatasets%3A%5B%7Blabel%3A%22A%C3%B1os%20de%20Experiencia%22%2Cdata%3A%5B1%2C0.5%2C2%5D%2CbackgroundColor%3A%5B%22%23777BB4%22%2C%22%23178600%22%2C%22%234479A1%22%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7By%3A%7BbeginAtZero%3Atrue%7D%7D%7D%7D)
+
 ## 🌐 Conéctate conmigo:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lisandrotosini1/)
@@ -21,19 +25,4 @@ Soy un programador apasionado con conocimientos en diversas tecnologías web. Es
 ---
 
 ¡Gracias por visitar mi perfil! Estoy ansioso por conectar con otros desarrolladores y aprender más cada día.
-## 📊 Experiencia:
 
-```html
-<svg width="600" height="400">
-  <!-- PHP -->
-  <rect x="50" y="50" width="250" height="40" style="fill:#777BB4;" />
-  <text x="55" y="75" fill="#fff">PHP - 1 año</text>
-  
-  <!-- C# -->
-  <rect x="50" y="110" width="125" height="40" style="fill:#178600;" />
-  <text x="55" y="135" fill="#fff">C# - 0.5 años</text>
-  
-  <!-- SQL -->
-  <rect x="50" y="170" width="500" height="40" style="fill:#4479A1;" />
-  <text x="55" y="195" fill="#fff">SQL - 2 años</text>
-</svg>

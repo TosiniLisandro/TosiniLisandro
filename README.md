@@ -1,26 +1,39 @@
-# Hi everyone, i'm Kevin Allioli aka (@linitio)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
-<p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
-  <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
-    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
-  </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
-If you want to discuss about it, feel free to contact me.
-</p>
+# Hola, soy Lisandro Tosini! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un programador apasionado con conocimientos en diversas tecnologías web. Estoy buscando oportunidades para crecer en el mundo del desarrollo de software y aportar con mis habilidades en proyectos interesantes.
+
+## 🚀 Tecnologías y Herramientas:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
+
+## 🌐 Conéctate conmigo:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lisandrotosini1/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/li.tosini/)
+
+---
+
+¡Gracias por visitar mi perfil! Estoy ansioso por conectar con otros desarrolladores y aprender más cada día.
+## 📊 Experiencia:
+
+```html
+<svg width="600" height="400">
+  <!-- PHP -->
+  <rect x="50" y="50" width="250" height="40" style="fill:#777BB4;" />
+  <text x="55" y="75" fill="#fff">PHP - 1 año</text>
+  
+  <!-- C# -->
+  <rect x="50" y="110" width="125" height="40" style="fill:#178600;" />
+  <text x="55" y="135" fill="#fff">C# - 0.5 años</text>
+  
+  <!-- SQL -->
+  <rect x="50" y="170" width="500" height="40" style="fill:#4479A1;" />
+  <text x="55" y="195" fill="#fff">SQL - 2 años</text>
+</svg>

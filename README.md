@@ -18,31 +18,6 @@ Soy un programador apasionado con conocimientos en diversas tecnologías web. Es
 
 
 ![Gráfico de Experiencia](https://quickchart.io/chart?c=%7Btype%3A%22pie%22%2Cdata%3A%7Blabels%3A%5B%22PHP%22%2C%22C%23%22%2C%22SQL%22%5D%2Cdatasets%3A%5B%7Bdata%3A%5B1%2C0.5%2C2%5D%2CbackgroundColor%3A%5B%22%23777BB4%22%2C%22%23178600%22%2C%22%234479A1%22%5D%7D%5D%7D%2Coptions%3A%7Belements%3A%7Barc%3A%7BborderWidth%3A0%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%7D%2Cwidth%3A300%2Cheight%3A300%7D)
-{
-  "type": "outlabeledPie",
-  "data": {
-    "labels": ["ONE", "TWO", "THREE", "FOUR", "FIVE"],
-    "datasets": [{
-        "backgroundColor": ["#FF3784", "#36A2EB", "#4BC0C0", "#F77825", "#9966FF"],
-        "data": [1, 2, 3, 4, 5]
-    }]
-  },
-  "options": {
-    "plugins": {
-      "legend": false,
-      "outlabels": {
-        "text": "%l %p",
-        "color": "white",
-        "stretch": 35,
-        "font": {
-          "resizable": true,
-          "minSize": 12,
-          "maxSize": 18
-        }
-      }
-    }
-  }
-}
 
 
 ## 🌐 Conéctate conmigo:

@@ -22,8 +22,7 @@ Saurabh</a></h1>
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+- 🌍 mis hobbys son viajar, y el aeromodelismo
 
 ## 🚀 Tecnologías y Herramientas:
 

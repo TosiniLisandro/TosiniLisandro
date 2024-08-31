@@ -18,7 +18,7 @@ Saurabh</a></h1>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+-   👨‍💻  experiencia de mas de un año progrmando
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 

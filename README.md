@@ -4,7 +4,7 @@ Saurabh</a></h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400"  src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </a>
 
 - 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>

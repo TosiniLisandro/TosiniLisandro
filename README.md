@@ -4,6 +4,7 @@ Saurabh</a></h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400"  src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
 - 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
@@ -35,8 +36,6 @@ Saurabh</a></h1>
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ## 📊 Experiencia:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ![Gráfico de Experiencia](https://quickchart.io/chart?c=%7Btype%3A%22pie%22%2Cdata%3A%7Blabels%3A%5B%22PHP%22%2C%22C%23%22%2C%22SQL%22%5D%2Cdatasets%3A%5B%7Bdata%3A%5B1%2C0.5%2C2%5D%2CbackgroundColor%3A%5B%22%23777BB4%22%2C%22%23178600%22%2C%22%234479A1%22%5D%7D%5D%7D%2Coptions%3A%7Belements%3A%7Barc%3A%7BborderWidth%3A0%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%7D%2Cwidth%3A300%2Cheight%3A300%7D)
 

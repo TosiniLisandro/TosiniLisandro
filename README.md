@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hola 👋, soy Lisandro Tosini<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h3 align="center">Soy un programador apasionado con conocimientos en diversas tecnologías web. Estoy buscando oportunidades para crecer en el mundo del desarrollo de software y aportar con mis habilidades en proyectos interesantes. &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 

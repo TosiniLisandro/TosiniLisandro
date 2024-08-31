@@ -3,7 +3,7 @@ Saurabh</a></h1>
 <h3 align="center">Soy un programador apasionado con conocimientos en diversas tecnologías web. Estoy buscando oportunidades para crecer en el mundo del desarrollo de software y aportar con mis habilidades en proyectos interesantes. &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400"  src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg">
 </a>
 
 - 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>

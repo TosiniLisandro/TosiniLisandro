@@ -8,7 +8,7 @@ Saurabh</a></h1>
 
 </a>
 
-- 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
+- 🎓 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
 
 - 💻 Creador de gestionmecanica.com
 

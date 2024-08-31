@@ -35,9 +35,7 @@ Soy un programador apasionado con conocimientos en diversas tecnologías web. Es
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 08/08/2022
 ## 🌐 Conéctate conmigo:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lisandrotosini1/)

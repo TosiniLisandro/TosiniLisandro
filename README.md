@@ -6,7 +6,7 @@ Saurabh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank">ir al instituto</a>
+- 📝 Egresado del instituo Cordoba<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 

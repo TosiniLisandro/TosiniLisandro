@@ -12,17 +12,15 @@ Lisandro Toisni</a></h1>
 
 - 💻 Creador de gestionmecanica.com
 
-- 🤝 I’m available for freelancing.
-
-- ⚡ I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 🧐 interes por ser parte de un equipo de trabjo de software. 
+- ⚡ ingles A1
 
 -   👨‍💻  experiencia de mas de un año progrmando
+  
+- 🧐 informacion extra!,conocmiento en programacion industrial y electricidad. 
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- ☎️ +54-3573-465467 
 
-- 🌍 mis hobbys son viajar, y el aeromodelismo
+- 🌍 mi pastaiempo favorito: trabajar en mi iglesia ayudando a jovenes y adolecentes.  
 
 ## 🚀 Tecnologías y Herramientas:
 
@@ -31,18 +29,11 @@ Lisandro Toisni</a></h1>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
-## 📊 Experiencia:
-
-
----
-
-
 ## 🌐 Conéctate conmigo:
-
+📫 email: lisandrotosini1@gmail.com
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lisandrotosini1/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/li.tosini/)
 

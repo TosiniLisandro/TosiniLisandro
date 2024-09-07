@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<h1 align="center">Hola 👋, soy Lisandro Tosini<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+<h1 align="center">Hola 👋, soy<a href="https://www.linkedin.com/in/lisandro-tosini-b38a17163/" target="blank">
+Lisandro Toisni</a></h1>
 <h3 align="center">Soy un programador apasionado con conocimientos en diversas tecnologías web. Estoy buscando oportunidades para crecer en el mundo del desarrollo de software y aportar con mis habilidades en proyectos interesantes. &#127470;&#127475</h3>
 
 <a target="_blank" align="center">

@@ -18,7 +18,9 @@ Lisandro Toisni</a></h1>
   
 - 🧐 informacion extra!,conocmiento en programacion industrial y electricidad. 
 
-- ☎️ +54-3573-465467 
+- ☎️ +54-3573-465467
+  
+- 📫 email: lisandrotosini1@gmail.com
 
 - 🌍 mi pastaiempo favorito: trabajar en mi iglesia ayudando a jovenes y adolecentes.  
 
@@ -33,9 +35,10 @@ Lisandro Toisni</a></h1>
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ## 🌐 Conéctate conmigo:
-📫 email: lisandrotosini1@gmail.com
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lisandrotosini1/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/li.tosini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandro-tosini-b38a17163/)
 
 ---
 

@@ -12,7 +12,7 @@ Lisandro Toisni</a></h1>
 
 - 💻 Creador de gestionmecanica.com
 
-- ⚡ ingles A1
+- ⚡ <a href="https://tosinilisandro.github.io/" target="blank"> Puedes ver mi Curriculum</a>
 
 -   👨‍💻  experiencia de mas de un año progrmando
   
@@ -22,7 +22,7 @@ Lisandro Toisni</a></h1>
   
 - 📫 email: lisandrotosini1@gmail.com
 
-- 🌍 mi pastaiempo favorito: trabajar en mi iglesia ayudando a jovenes y adolecentes.  
+- 🌍 mi pastaiempo favorito: Servir en mi iglesia ayudando a jovenes y adolecentes.  
 
 ## 🚀 Tecnologías y Herramientas:
 

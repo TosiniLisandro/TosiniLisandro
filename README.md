@@ -14,15 +14,15 @@ Lisandro Toisni</a></h1>
 
 - ⚡ <a href="https://tosinilisandro.github.io/" target="blank"> Puedes ver mi Curriculum</a>
 
--   👨‍💻  experiencia de mas de un año progrmando
+-   👨‍💻  Experiencia de mas de un año progrmando
   
-- 🧐 informacion extra!,conocmiento en programacion industrial y electricidad. 
+- 🧐 Informacion extra!,conocmiento en programacion industrial y electricidad. 
 
 - ☎️ +54-3573-465467
   
-- 📫 email: lisandrotosini1@gmail.com
+- 📫 Email: lisandrotosini1@gmail.com
 
-- 🌍 mi pastaiempo favorito: Servir en mi iglesia ayudando a jovenes y adolecentes.  
+- 🌍 Mi pastaiempo favorito: Servir en mi iglesia ayudando a jovenes y adolecentes.  
 
 ## 🚀 Tecnologías y Herramientas:
 

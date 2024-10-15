@@ -10,7 +10,7 @@ Lisandro Toisni</a></h1>
 
 - 🎓 Egresado del instituo Villa del Rosario<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
 
-- 💻 Creador de <a href="https://gestionarmitaller.com/index.php" target="blank"> Gestiar mi Taller</a>
+- 💻 Creador de <a href="https://gestionarmitaller.com/index.php" target="blank"> Gestionar mi Taller</a>
 
 - ⚡ <a href="https://tosinilisandro.github.io/" target="blank"> Puedes ver mi Curriculum</a>
 

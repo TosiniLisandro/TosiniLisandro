@@ -18,7 +18,7 @@ Lisandro Toisni</a></h1>
   
 - 🧐 Informacion extra!,conocmiento en programacion industrial. 
 
-- ☎️ +54-3573-465467
+- ☎️ Telefono <a href="https://wa.me/543573465467" target="_blank">3573465467</a>
   
 - 📫 Email: lisandrotosini1@gmail.com
 

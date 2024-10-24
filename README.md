@@ -8,21 +8,19 @@ Lisandro Toisni</a></h1>
 
 </a>
 
-- 🎓 ISPC Instituto Superior Politécnico Córdoba <a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
+- 🎓 Egreasdo ISPC Instituto Superior Politécnico Córdoba <a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
 
 - 💻 Creador de <a href="https://gestionarmitaller.com/index.php" target="blank"> Gestionar mi Taller</a>
 
 - ⚡ Puedes ver mi  <a href="https://tosinilisandro.github.io/" target="blank">Curriculum</a>
 
--   👨‍💻  Experiencia de mas de un año progrmando
-  
-- 🧐 Informacion extra!,conocmiento en programacion industrial. 
+- 👨‍💻  Experiencia de mas de un año progrmando como freelancer.
 
 - ☎️ Telefono <a href="https://wa.me/543573465467" target="_blank">3573465467</a>
   
 - 📫 Email: lisandrotosini1@gmail.com
 
-- 🌍 Mi pastaiempo favorito: Servir en mi iglesia ayudando a jovenes y adolecentes.  
+- 🌍 Mi pastaiempo favorito: Aeromodelismo, Futbol, Pádel.  
 
 ## 🚀 Tecnologías y Herramientas:
 

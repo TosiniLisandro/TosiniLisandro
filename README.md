@@ -8,7 +8,7 @@ Lisandro Toisni</a></h1>
 
 </a>
 
-- 🎓 Egresado del instituo Villa del Rosario<a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
+- 🎓 ISPC Instituto Superior Politécnico Córdoba <a href="https://www.ispc.edu.ar/" target="blank"> ir al instituto</a>
 
 - 💻 Creador de <a href="https://gestionarmitaller.com/index.php" target="blank"> Gestionar mi Taller</a>
 

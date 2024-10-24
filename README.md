@@ -12,7 +12,7 @@ Lisandro Toisni</a></h1>
 
 - 💻 Creador de <a href="https://gestionarmitaller.com/index.php" target="blank"> Gestionar mi Taller</a>
 
-- ⚡ <a href="https://tosinilisandro.github.io/" target="blank"> Puedes ver mi Curriculum</a>
+- ⚡ Puedes ver mi  <a href="https://tosinilisandro.github.io/" target="blank">Curriculum</a>
 
 -   👨‍💻  Experiencia de mas de un año progrmando
   

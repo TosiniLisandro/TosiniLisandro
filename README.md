@@ -16,7 +16,7 @@ Lisandro Toisni</a></h1>
 
 -   👨‍💻  Experiencia de mas de un año progrmando
   
-- 🧐 Informacion extra!,conocmiento en programacion industrial y electricidad. 
+- 🧐 Informacion extra!,conocmiento en programacion industrial. 
 
 - ☎️ +54-3573-465467
   

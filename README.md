@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hola 👋, soy<a href="https://www.linkedin.com/in/lisandro-tosini-b38a17163/" target="blank">
 Lisandro Toisni</a></h1>
-<h3 align="center">Soy un desarollador de software con conocimientos en diversas tecnologías web. Estoy buscando oportunidades para crecer en el mundo de la programación y aportar con mis habilidades a continuacion te dejo mi informacion profecional. </h3>
+<h3 align="center">Soy un desarollador de software especializado en desarrollo web, pero también he desarrollado algunos proyectos en Android. Estoy buscando oportunidades para crecer en el mundo de la programación y aportar con mis habilidades a continuacion te dejo mi informacion profecional. </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400"  src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg">

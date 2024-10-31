@@ -14,7 +14,7 @@ Lisandro Toisni</a></h1>
 
 - ⚡ Puedes ver mi  <a href="https://tosinilisandro.github.io/" target="blank">Curriculum</a>
 
-- 👨‍💻  Experiencia de mas de un año progrmando como freelancer.
+- 👨‍💻  Experiencia de mas de un año trabajando como progrmandor.
 
 - ☎️ Telefono <a href="https://wa.me/543573465467" target="_blank">3573465467</a>
   
